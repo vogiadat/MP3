@@ -32,54 +32,9 @@ const app = {
   //   Playlists
   songs: [
     {
-      name: "Là Do Em Xui Thôi",
-      singer: "Khói, Sofia, Châu Đăng Khoa",
-      path: "./assets/music/LaDoEmXuiThoi.mp3",
-    },
-    {
-      name: "Lửng Lơ",
-      singer: "Bray, Masew",
-      path: "./assets/music/LungLo.mp3",
-    },
-    {
-      name: "Muộn Rồi Mà Sao Còn",
-      singer: "Sơn Tùng MTP",
-      path: "./assets/music/MuonRoiMaSaoCon.mp3",
-    },
-    {
-      name: "Nàng Thơ",
-      singer: "Hoàng Dũng",
-      path: "./assets/music/NangTho.mp3",
-    },
-    {
-      name: "Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau",
-      singer: "Olew",
-      path: "./assets/music/RoiTaSeNgamPhaoHoaCungNhau.mp3",
-    },
-    {
       name: "Vệ Tinh",
       singer: "HIEUTHUHAI, Hoàng Tôn",
       path: "./assets/music/VeTinh.mp3",
-    },
-    {
-      name: "Là Do Em Xui Thôi",
-      singer: "Khói, Sofia, Châu Đăng Khoa",
-      path: "./assets/music/LaDoEmXuiThoi.mp3",
-    },
-    {
-      name: "Lửng Lơ",
-      singer: "Bray, Masew",
-      path: "./assets/music/LungLo.mp3",
-    },
-    {
-      name: "Muộn Rồi Mà Sao Còn",
-      singer: "Sơn Tùng MTP",
-      path: "./assets/music/MuonRoiMaSaoCon.mp3",
-    },
-    {
-      name: "Nàng Thơ",
-      singer: "Hoàng Dũng",
-      path: "./assets/music/NangTho.mp3",
     },
   ],
 
